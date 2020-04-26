@@ -25,3 +25,10 @@
 .heading-3 {
     color : rgb(182, 182, 182);
 }
+
+.recoveries {
+    background-color: green;
+    padding: 30px;
+    font-weight: bolder;
+    color: white;
+}
